@@ -51,7 +51,7 @@ body {
 }
 
 .main {
-    background-image: url('/images/big.jpg');
+    background-image: url('images/big.jpg');
     height: 900px;
 }
 
